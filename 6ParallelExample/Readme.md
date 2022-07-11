@@ -38,3 +38,20 @@
 </pre>
 
 ![image](https://user-images.githubusercontent.com/69715143/178267645-36be3d33-b8bd-4417-bb3a-4e5f0e28fe3a.png)
+
+Output to following input: 
+<pre>
+{ "comment" : "Insert your JSON here" }
+</pre> <br/>
+<pre>
+[
+  {
+    "Comment": "Insert your JSON here",
+    "first": "First State Result"
+  },
+  {
+    "Comment": "Insert your JSON here",
+    "second": "Second State Result"
+  }
+]
+</pre>
